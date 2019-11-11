@@ -1,0 +1,1925 @@
+{
+   "type": "FeatureCollection",
+   "features": [
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 106.912254,29.431585 ]
+    },
+    "properties": {
+    "City":"Chongqing",
+    "Country":"China",
+    "# of CCTV Cameras":"2,579,890",
+    "# of People":"15,354,067",
+    "# of CCTV Cameras per 1,000 People":168.03,
+    "Future Projections (or Addition of Private Cameras)":"8,075,056",
+    "Future Projections of # of CCTV Cameras per 1,000 People (or Total Inc. Private Cameras)":525.92
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 114.057861,22.543097 ]
+    },
+    "properties": {
+    "City":"Shenzhen",
+    "Country":"China",
+    "# of CCTV Cameras":"1,929,600",
+    "# of People":"12,128,721",
+    "# of CCTV Cameras per 1,000 People":159.09,
+    "Future Projections (or Addition of Private Cameras)":"16,680,000",
+    "Future Projections of # of CCTV Cameras per 1,000 People (or Total Inc. Private Cameras)":1375.25
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.473701,31.230391 ]
+    },
+    "properties": {
+    "City":"Shanghai",
+    "Country":"China",
+    "# of CCTV Cameras":"2,985,984",
+    "# of People":"26,317,104",
+    "# of CCTV Cameras per 1,000 People":113.46,
+    "Future Projections (or Addition of Private Cameras)":"9,346,129",
+    "Future Projections of # of CCTV Cameras per 1,000 People (or Total Inc. Private Cameras)":355.14
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 117.361649,39.343357 ]
+    },
+    "properties": {
+    "City":"Tianjin",
+    "Country":"China",
+    "# of CCTV Cameras":"1,244,160",
+    "# of People":"13,396,402",
+    "# of CCTV Cameras per 1,000 People":92.87,
+    "Future Projections (or Addition of Private Cameras)":"3,894,220",
+    "Future Projections of # of CCTV Cameras per 1,000 People (or Total Inc. Private Cameras)":290.69
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 120.128242,23.093571 ]
+    },
+    "properties": {
+    "City":"Ji'nan",
+    "Country":"China",
+    "# of CCTV Cameras":"540,463",
+    "# of People":"7,321,200",
+    "# of CCTV Cameras per 1,000 People":73.82,
+    "Future Projections (or Addition of Private Cameras)":"1,691,649",
+    "Future Projections of # of CCTV Cameras per 1,000 People (or Total Inc. Private Cameras)":231.06
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -0.127758,51.507351 ]
+    },
+    "properties": {
+    "City":"London",
+    "Country":"England (UK)",
+    "# of CCTV Cameras":"627,707",
+    "# of People":"9,176,530",
+    "# of CCTV Cameras per 1,000 People":68.4,
+    "Future Projections (or Addition of Private Cameras)":"",
+    "Future Projections of # of CCTV Cameras per 1,000 People (or Total Inc. Private Cameras)":null
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 114.305542,30.59285 ]
+    },
+    "properties": {
+    "City":"Wuhan",
+    "Country":"China",
+    "# of CCTV Cameras":"500,000",
+    "# of People":"8,266,273",
+    "# of CCTV Cameras per 1,000 People":60.49,
+    "Future Projections (or Addition of Private Cameras)":"4,695,000",
+    "Future Projections of # of CCTV Cameras per 1,000 People (or Total Inc. Private Cameras)":567.97
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 113.264381,23.12911 ]
+    },
+    "properties": {
+    "City":"Guangzhou",
+    "Country":"China",
+    "# of CCTV Cameras":"684,000",
+    "# of People":"12,967,862",
+    "# of CCTV Cameras per 1,000 People":52.75,
+    "Future Projections (or Addition of Private Cameras)":"2,140,920",
+    "Future Projections of # of CCTV Cameras per 1,000 People (or Total Inc. Private Cameras)":165.09
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 116.407394,39.904202 ]
+    },
+    "properties": {
+    "City":"Beijing",
+    "Country":"China",
+    "# of CCTV Cameras":"800,000",
+    "# of People":"20,035,455",
+    "# of CCTV Cameras per 1,000 People":39.93,
+    "Future Projections (or Addition of Private Cameras)":"2,504,000",
+    "Future Projections of # of CCTV Cameras per 1,000 People (or Total Inc. Private Cameras)":124.98
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -84.387985,33.748997 ]
+    },
+    "properties": {
+    "City":"Atlanta",
+    "Country":"United States",
+    "# of CCTV Cameras":"7,800",
+    "# of People":"501,178",
+    "# of CCTV Cameras per 1,000 People":15.56,
+    "Future Projections (or Addition of Private Cameras)":"10,600",
+    "Future Projections of # of CCTV Cameras per 1,000 People (or Total Inc. Private Cameras)":21.15
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 103.819839,1.352083 ]
+    },
+    "properties": {
+    "City":"Singapore",
+    "Country":"Singapore ",
+    "# of CCTV Cameras":"86,000",
+    "# of People":"5,638,676",
+    "# of CCTV Cameras per 1,000 People":15.25,
+    "Future Projections (or Addition of Private Cameras)":"196,070",
+    "Future Projections of # of CCTV Cameras per 1,000 People (or Total Inc. Private Cameras)":34.77
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 54.377342,24.453884 ]
+    },
+    "properties": {
+    "City":"Abu Dhabi",
+    "Country":"UAE",
+    "# of CCTV Cameras":"20,000",
+    "# of People":"1,452,057",
+    "# of CCTV Cameras per 1,000 People":13.77,
+    "Future Projections (or Addition of Private Cameras)":"",
+    "Future Projections of # of CCTV Cameras per 1,000 People (or Total Inc. Private Cameras)":null
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -87.629799,41.878113 ]
+    },
+    "properties": {
+    "City":"Chicago",
+    "Country":"United States",
+    "# of CCTV Cameras":"35,000",
+    "# of People":"2,679,044",
+    "# of CCTV Cameras per 1,000 People":13.06,
+    "Future Projections (or Addition of Private Cameras)":"65,000",
+    "Future Projections of # of CCTV Cameras per 1,000 People (or Total Inc. Private Cameras)":24.26
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 87.616852,43.825592 ]
+    },
+    "properties": {
+    "City":"Urumqi",
+    "Country":"China",
+    "# of CCTV Cameras":"43,394",
+    "# of People":"3,500,000",
+    "# of CCTV Cameras per 1,000 People":12.4,
+    "Future Projections (or Addition of Private Cameras)":"135,823",
+    "Future Projections of # of CCTV Cameras per 1,000 People (or Total Inc. Private Cameras)":38.81
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 151.20929,-33.86882 ]
+    },
+    "properties": {
+    "City":"Sydney",
+    "Country":"Australia",
+    "# of CCTV Cameras":"60,000",
+    "# of People":"4,859,432",
+    "# of CCTV Cameras per 1,000 People":12.35,
+    "Future Projections (or Addition of Private Cameras)":"61,000",
+    "Future Projections of # of CCTV Cameras per 1,000 People (or Total Inc. Private Cameras)":12.55
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 44.361488,33.312805 ]
+    },
+    "properties": {
+    "City":"Baghdad",
+    "Country":"Iraq",
+    "# of CCTV Cameras":"120,000",
+    "# of People":"9,760,000",
+    "# of CCTV Cameras per 1,000 People":12.3,
+    "Future Projections (or Addition of Private Cameras)":"",
+    "Future Projections of # of CCTV Cameras per 1,000 People (or Total Inc. Private Cameras)":null
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 55.270782,25.204849 ]
+    },
+    "properties": {
+    "City":"Dubai",
+    "Country":"UAE",
+    "# of CCTV Cameras":"35,000",
+    "# of People":"2,883,079",
+    "# of CCTV Cameras per 1,000 People":12.14,
+    "Future Projections (or Addition of Private Cameras)":"",
+    "Future Projections of # of CCTV Cameras per 1,000 People (or Total Inc. Private Cameras)":null
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 37.617298,55.755825 ]
+    },
+    "properties": {
+    "City":"Moscow",
+    "Country":"Russia",
+    "# of CCTV Cameras":"146,000",
+    "# of People":"12,476,171",
+    "# of CCTV Cameras per 1,000 People":11.7,
+    "Future Projections (or Addition of Private Cameras)":"174,000",
+    "Future Projections of # of CCTV Cameras per 1,000 People (or Total Inc. Private Cameras)":13.95
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 13.404954,52.520008 ]
+    },
+    "properties": {
+    "City":"Berlin",
+    "Country":"Germany",
+    "# of CCTV Cameras":"39,765",
+    "# of People":"3,556,792",
+    "# of CCTV Cameras per 1,000 People":11.18,
+    "Future Projections (or Addition of Private Cameras)":"",
+    "Future Projections of # of CCTV Cameras per 1,000 People (or Total Inc. Private Cameras)":null
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 77.209023,28.613939 ]
+    },
+    "properties": {
+    "City":"New Delhi",
+    "Country":"India",
+    "# of CCTV Cameras":"179,000",
+    "# of People":"18,600,000",
+    "# of CCTV Cameras per 1,000 People":9.62,
+    "Future Projections (or Addition of Private Cameras)":"329,000",
+    "Future Projections of # of CCTV Cameras per 1,000 People (or Total Inc. Private Cameras)":17.69
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 115.8582,28.682892 ]
+    },
+    "properties": {
+    "City":"Nanchang",
+    "Country":"China",
+    "# of CCTV Cameras":"50,400",
+    "# of People":"5,463,538",
+    "# of CCTV Cameras per 1,000 People":9.22,
+    "Future Projections (or Addition of Private Cameras)":"157,752",
+    "Future Projections of # of CCTV Cameras per 1,000 People (or Total Inc. Private Cameras)":28.87
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 73.047882,33.684422 ]
+    },
+    "properties": {
+    "City":"Islamabad",
+    "Country":"Pakistan",
+    "# of CCTV Cameras":"9,950",
+    "# of People":"1,095,064",
+    "# of CCTV Cameras per 1,000 People":9.09,
+    "Future Projections (or Addition of Private Cameras)":"",
+    "Future Projections of # of CCTV Cameras per 1,000 People (or Total Inc. Private Cameras)":null
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 21.01223,52.229675 ]
+    },
+    "properties": {
+    "City":"Warsaw",
+    "Country":"Poland",
+    "# of CCTV Cameras":"13,935",
+    "# of People":"1,775,933",
+    "# of CCTV Cameras per 1,000 People":7.85,
+    "Future Projections (or Addition of Private Cameras)":"",
+    "Future Projections of # of CCTV Cameras per 1,000 People (or Total Inc. Private Cameras)":null
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 16.373819,48.208176 ]
+    },
+    "properties": {
+    "City":"Vienna",
+    "Country":"Austria",
+    "# of CCTV Cameras":"14,141",
+    "# of People":"1,915,338",
+    "# of CCTV Cameras per 1,000 People":7.38,
+    "Future Projections (or Addition of Private Cameras)":"16,941",
+    "Future Projections of # of CCTV Cameras per 1,000 People (or Total Inc. Private Cameras)":8.84
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 28.978359,41.00824 ]
+    },
+    "properties": {
+    "City":"Istanbul",
+    "Country":"Turkey",
+    "# of CCTV Cameras":"107,000",
+    "# of People":"14,967,667",
+    "# of CCTV Cameras per 1,000 People":7.15,
+    "Future Projections (or Addition of Private Cameras)":"116,000",
+    "Future Projections of # of CCTV Cameras per 1,000 People (or Total Inc. Private Cameras)":7.75
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 114.109497,22.396427 ]
+    },
+    "properties": {
+    "City":"Hong Kong",
+    "Country":"Hong Kong",
+    "# of CCTV Cameras":"50,000",
+    "# of People":"7,451,000",
+    "# of CCTV Cameras per 1,000 People":6.71,
+    "Future Projections (or Addition of Private Cameras)":"",
+    "Future Projections of # of CCTV Cameras per 1,000 People (or Total Inc. Private Cameras)":null
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 112.938812,28.228209 ]
+    },
+    "properties": {
+    "City":"Changsha",
+    "Country":"China",
+    "# of CCTV Cameras":"50,000",
+    "# of People":"7,918,100",
+    "# of CCTV Cameras per 1,000 People":6.31,
+    "Future Projections (or Addition of Private Cameras)":"156,500",
+    "Future Projections of # of CCTV Cameras per 1,000 People (or Total Inc. Private Cameras)":19.76
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -77.036873,38.907192 ]
+    },
+    "properties": {
+    "City":"Washington, D.C.",
+    "Country":"United States",
+    "# of CCTV Cameras":"4,000",
+    "# of People":"713,549",
+    "# of CCTV Cameras per 1,000 People":5.61,
+    "Future Projections (or Addition of Private Cameras)":"",
+    "Future Projections of # of CCTV Cameras per 1,000 People (or Total Inc. Private Cameras)":null
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 30.335098,59.93428 ]
+    },
+    "properties": {
+    "City":"St. Petersburg",
+    "Country":"Russia",
+    "# of CCTV Cameras":"30,000",
+    "# of People":"5,426,959",
+    "# of CCTV Cameras per 1,000 People":5.53,
+    "Future Projections (or Addition of Private Cameras)":"",
+    "Future Projections of # of CCTV Cameras per 1,000 People (or Total Inc. Private Cameras)":null
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 149.130005,-35.280937 ]
+    },
+    "properties": {
+    "City":"Canberra",
+    "Country":"Australia",
+    "# of CCTV Cameras":"2,472",
+    "# of People":"452,497",
+    "# of CCTV Cameras per 1,000 People":5.46,
+    "Future Projections (or Addition of Private Cameras)":"",
+    "Future Projections of # of CCTV Cameras per 1,000 People (or Total Inc. Private Cameras)":null
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 100.501762,13.756331 ]
+    },
+    "properties": {
+    "City":"Bangkok",
+    "Country":"Thailand",
+    "# of CCTV Cameras":"53,429",
+    "# of People":"10,350,204",
+    "# of CCTV Cameras per 1,000 People":5.16,
+    "Future Projections (or Addition of Private Cameras)":"83,429",
+    "Future Projections of # of CCTV Cameras per 1,000 People (or Total Inc. Private Cameras)":8.06
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 80.270721,13.08268 ]
+    },
+    "properties": {
+    "City":"Chennai",
+    "Country":"India",
+    "# of CCTV Cameras":"50,000",
+    "# of People":"10,711,243",
+    "# of CCTV Cameras per 1,000 People":4.67,
+    "Future Projections (or Addition of Private Cameras)":"100,000",
+    "Future Projections of # of CCTV Cameras per 1,000 People (or Total Inc. Private Cameras)":9.34
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -3.70379,40.416775 ]
+    },
+    "properties": {
+    "City":"Madrid",
+    "Country":"Spain",
+    "# of CCTV Cameras":"29,000",
+    "# of People":"6,559,041",
+    "# of CCTV Cameras per 1,000 People":4.42,
+    "Future Projections (or Addition of Private Cameras)":"",
+    "Future Projections of # of CCTV Cameras per 1,000 People (or Total Inc. Private Cameras)":null
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 126.977966,37.566536 ]
+    },
+    "properties": {
+    "City":"Seoul",
+    "Country":"South Korea",
+    "# of CCTV Cameras":"37,883",
+    "# of People":"9,962,393",
+    "# of CCTV Cameras per 1,000 People":3.8,
+    "Future Projections (or Addition of Private Cameras)":"",
+    "Future Projections of # of CCTV Cameras per 1,000 People (or Total Inc. Private Cameras)":null
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 174.763336,-36.848461 ]
+    },
+    "properties": {
+    "City":"Auckland",
+    "Country":"New Zealand",
+    "# of CCTV Cameras":"5,577",
+    "# of People":"1,582,028",
+    "# of CCTV Cameras per 1,000 People":3.53,
+    "Future Projections (or Addition of Private Cameras)":"7,808",
+    "Future Projections of # of CCTV Cameras per 1,000 People (or Total Inc. Private Cameras)":4.94
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 19.040236,47.497913 ]
+    },
+    "properties": {
+    "City":"Budapest",
+    "Country":"Hungary",
+    "# of CCTV Cameras":"6,000",
+    "# of People":"1,763,913",
+    "# of CCTV Cameras per 1,000 People":3.4,
+    "Future Projections (or Addition of Private Cameras)":"",
+    "Future Projections of # of CCTV Cameras per 1,000 People (or Total Inc. Private Cameras)":null
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 23.727539,37.98381 ]
+    },
+    "properties": {
+    "City":"Athens",
+    "Country":"Greece",
+    "# of CCTV Cameras":"10,612",
+    "# of People":"3,154,152",
+    "# of CCTV Cameras per 1,000 People":3.36,
+    "Future Projections (or Addition of Private Cameras)":"35,612",
+    "Future Projections of # of CCTV Cameras per 1,000 People (or Total Inc. Private Cameras)":11.29
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.419418,37.774929 ]
+    },
+    "properties": {
+    "City":"San Francisco",
+    "Country":"United States",
+    "# of CCTV Cameras":"2,753",
+    "# of People":"897,536",
+    "# of CCTV Cameras per 1,000 People":3.07,
+    "Future Projections (or Addition of Private Cameras)":"3,263",
+    "Future Projections of # of CCTV Cameras per 1,000 People (or Total Inc. Private Cameras)":3.64
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 2.352222,48.856613 ]
+    },
+    "properties": {
+    "City":"Paris",
+    "Country":"France ",
+    "# of CCTV Cameras":"33,479",
+    "# of People":"10,958,187",
+    "# of CCTV Cameras per 1,000 People":3.06,
+    "Future Projections (or Addition of Private Cameras)":"34,979",
+    "Future Projections of # of CCTV Cameras per 1,000 People (or Total Inc. Private Cameras)":3.19
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 80.946167,26.846695 ]
+    },
+    "properties": {
+    "City":"Lucknow",
+    "Country":"India",
+    "# of CCTV Cameras":"9,300",
+    "# of People":"3,589,795",
+    "# of CCTV Cameras per 1,000 People":2.59,
+    "Future Projections (or Addition of Private Cameras)":"",
+    "Future Projections of # of CCTV Cameras per 1,000 People (or Total Inc. Private Cameras)":null
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -38.501629,-12.977749 ]
+    },
+    "properties": {
+    "City":"Salvador",
+    "Country":"Brazil",
+    "# of CCTV Cameras":"7,300",
+    "# of People":"2,857,329",
+    "# of CCTV Cameras per 1,000 People":2.55,
+    "Future Projections (or Addition of Private Cameras)":"",
+    "Future Projections of # of CCTV Cameras per 1,000 People (or Total Inc. Private Cameras)":null
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -117.161087,32.715736 ]
+    },
+    "properties": {
+    "City":"San Diego",
+    "Country":"United States",
+    "# of CCTV Cameras":"3,600",
+    "# of People":"1,453,775",
+    "# of CCTV Cameras per 1,000 People":2.48,
+    "Future Projections (or Addition of Private Cameras)":"",
+    "Future Projections of # of CCTV Cameras per 1,000 People (or Total Inc. Private Cameras)":null
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -79.383186,43.653225 ]
+    },
+    "properties": {
+    "City":"Toronto",
+    "Country":"Canada",
+    "# of CCTV Cameras":"14,955",
+    "# of People":"6,139,404",
+    "# of CCTV Cameras per 1,000 People":2.44,
+    "Future Projections (or Addition of Private Cameras)":"",
+    "Future Projections of # of CCTV Cameras per 1,000 People (or Total Inc. Private Cameras)":null
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 23.321867,42.697708 ]
+    },
+    "properties": {
+    "City":"Sofia",
+    "Country":"Bulgaria ",
+    "# of CCTV Cameras":"3,000",
+    "# of People":"1,276,937",
+    "# of CCTV Cameras per 1,000 People":2.35,
+    "Future Projections (or Addition of Private Cameras)":"",
+    "Future Projections of # of CCTV Cameras per 1,000 People (or Total Inc. Private Cameras)":null
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 7.261953,43.710175 ]
+    },
+    "properties": {
+    "City":"Nice",
+    "Country":"France ",
+    "# of CCTV Cameras":"2,145",
+    "# of People":"941,800",
+    "# of CCTV Cameras per 1,000 People":2.28,
+    "Future Projections (or Addition of Private Cameras)":"",
+    "Future Projections of # of CCTV Cameras per 1,000 People (or Total Inc. Private Cameras)":null
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -71.058884,42.360081 ]
+    },
+    "properties": {
+    "City":"Boston",
+    "Country":"United States",
+    "# of CCTV Cameras":"1,552",
+    "# of People":"694,784",
+    "# of CCTV Cameras per 1,000 People":2.23,
+    "Future Projections (or Addition of Private Cameras)":"",
+    "Future Projections of # of CCTV Cameras per 1,000 People (or Total Inc. Private Cameras)":null
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 14.4378,50.075539 ]
+    },
+    "properties": {
+    "City":"Prague",
+    "Country":"Czech Republic",
+    "# of CCTV Cameras":"2,820",
+    "# of People":"1,298,804",
+    "# of CCTV Cameras per 1,000 People":2.17,
+    "Future Projections (or Addition of Private Cameras)":"",
+    "Future Projections of # of CCTV Cameras per 1,000 People (or Total Inc. Private Cameras)":null
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -3.17909,51.481583 ]
+    },
+    "properties": {
+    "City":"Cardiff",
+    "Country":"Wales (UK)",
+    "# of CCTV Cameras":"1,022",
+    "# of People":"474,187",
+    "# of CCTV Cameras per 1,000 People":2.16,
+    "Future Projections (or Addition of Private Cameras)":"",
+    "Future Projections of # of CCTV Cameras per 1,000 People (or Total Inc. Private Cameras)":null
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 30.523399,50.4501 ]
+    },
+    "properties": {
+    "City":"Kiev",
+    "Country":"Ukraine",
+    "# of CCTV Cameras":"6,200",
+    "# of People":"2,950,819",
+    "# of CCTV Cameras per 1,000 People":2.1,
+    "Future Projections (or Addition of Private Cameras)":"126,200",
+    "Future Projections of # of CCTV Cameras per 1,000 People (or Total Inc. Private Cameras)":42.77
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 12.4935467,41.8892943 ]
+    },
+    "properties": {
+    "City":"Rome",
+    "Country":"Italy",
+    "# of CCTV Cameras":"8,300",
+    "# of People":"4,234,019",
+    "# of CCTV Cameras per 1,000 People":1.96,
+    "Future Projections (or Addition of Private Cameras)":"",
+    "Future Projections of # of CCTV Cameras per 1,000 People (or Total Inc. Private Cameras)":null
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 73.8674763,18.5255009 ]
+    },
+    "properties": {
+    "City":"Pune",
+    "Country":"India",
+    "# of CCTV Cameras":"11,297",
+    "# of People":"6,451,618",
+    "# of CCTV Cameras per 1,000 People":1.75,
+    "Future Projections (or Addition of Private Cameras)":"",
+    "Future Projections of # of CCTV Cameras per 1,000 People (or Total Inc. Private Cameras)":null
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 32.5341667,15.5880556 ]
+    },
+    "properties": {
+    "City":"Khartoum",
+    "Country":"Sudan",
+    "# of CCTV Cameras":"4,000",
+    "# of People":"2,423,069",
+    "# of CCTV Cameras per 1,000 People":1.65,
+    "Future Projections (or Addition of Private Cameras)":"",
+    "Future Projections of # of CCTV Cameras per 1,000 People (or Total Inc. Private Cameras)":null
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 32.5655556,0.3155556 ]
+    },
+    "properties": {
+    "City":"Kampala",
+    "Country":"Uganda",
+    "# of CCTV Cameras":"2,547",
+    "# of People":"1,650,800",
+    "# of CCTV Cameras per 1,000 People":1.54,
+    "Future Projections (or Addition of Private Cameras)":"3,233",
+    "Future Projections of # of CCTV Cameras per 1,000 People (or Total Inc. Private Cameras)":1.96
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 4.3557069,50.8455362 ]
+    },
+    "properties": {
+    "City":"Brussels",
+    "Country":"Belgium",
+    "# of CCTV Cameras":"3,165",
+    "# of People":"2,065,284",
+    "# of CCTV Cameras per 1,000 People":1.53,
+    "Future Projections (or Addition of Private Cameras)":"",
+    "Future Projections of # of CCTV Cameras per 1,000 People (or Total Inc. Private Cameras)":null
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -90.5154828,14.6309713 ]
+    },
+    "properties": {
+    "City":"Guatemala City",
+    "Country":"Guatemala",
+    "# of CCTV Cameras":"4,000",
+    "# of People":"2,643,247",
+    "# of CCTV Cameras per 1,000 People":1.51,
+    "Future Projections (or Addition of Private Cameras)":"",
+    "Future Projections of # of CCTV Cameras per 1,000 People (or Total Inc. Private Cameras)":null
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 9.1896644,45.4671753 ]
+    },
+    "properties": {
+    "City":"Milan",
+    "Country":"Italy",
+    "# of CCTV Cameras":"4,143",
+    "# of People":"3,136,077",
+    "# of CCTV Cameras per 1,000 People":1.32,
+    "Future Projections (or Addition of Private Cameras)":"",
+    "Future Projections of # of CCTV Cameras per 1,000 People (or Total Inc. Private Cameras)":null
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -73.984606,40.755931 ]
+    },
+    "properties": {
+    "City":"New York",
+    "Country":"United States",
+    "# of CCTV Cameras":"11,000",
+    "# of People":"8,601,186",
+    "# of CCTV Cameras per 1,000 People":1.28,
+    "Future Projections (or Addition of Private Cameras)":"18,000",
+    "Future Projections of # of CCTV Cameras per 1,000 People (or Total Inc. Private Cameras)":2.09
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -51.2286404,-30.027679 ]
+    },
+    "properties": {
+    "City":"Porto Alegre",
+    "Country":"Brazil",
+    "# of CCTV Cameras":"1,812",
+    "# of People":"1,479,101",
+    "# of CCTV Cameras per 1,000 People":1.23,
+    "Future Projections (or Addition of Private Cameras)":"",
+    "Future Projections of # of CCTV Cameras per 1,000 People (or Total Inc. Private Cameras)":null
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -99.1334172,19.4319679 ]
+    },
+    "properties": {
+    "City":"Mexico City",
+    "Country":"Mexico",
+    "# of CCTV Cameras":"26,400",
+    "# of People":"21,671,908",
+    "# of CCTV Cameras per 1,000 People":1.22,
+    "Future Projections (or Addition of Private Cameras)":"",
+    "Future Projections of # of CCTV Cameras per 1,000 People (or Total Inc. Private Cameras)":null
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 26.1040483,44.4267347 ]
+    },
+    "properties": {
+    "City":"Bucharest",
+    "Country":"Romania",
+    "# of CCTV Cameras":"1,934",
+    "# of People":"1,812,290",
+    "# of CCTV Cameras per 1,000 People":1.07,
+    "Future Projections (or Addition of Private Cameras)":"",
+    "Future Projections of # of CCTV Cameras per 1,000 People (or Total Inc. Private Cameras)":null
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 78.4600458,17.4133993 ]
+    },
+    "properties": {
+    "City":"Hyderabad",
+    "Country":"India",
+    "# of CCTV Cameras":"10,000",
+    "# of People":"9,741,397",
+    "# of CCTV Cameras per 1,000 People":1.03,
+    "Future Projections (or Addition of Private Cameras)":"",
+    "Future Projections of # of CCTV Cameras per 1,000 People (or Total Inc. Private Cameras)":null
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 3.417586,6.4422876 ]
+    },
+    "properties": {
+    "City":"Lagos",
+    "Country":"Nigeria",
+    "# of CCTV Cameras":"14,200",
+    "# of People":"13,903,620",
+    "# of CCTV Cameras per 1,000 People":1.02,
+    "Future Projections (or Addition of Private Cameras)":"",
+    "Future Projections of # of CCTV Cameras per 1,000 People (or Total Inc. Private Cameras)":null
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -98.1980039,19.0421378 ]
+    },
+    "properties": {
+    "City":"Puebla",
+    "Country":"Mexico",
+    "# of CCTV Cameras":"1,576",
+    "# of People":"1,544,500",
+    "# of CCTV Cameras per 1,000 People":1.02,
+    "Future Projections (or Addition of Private Cameras)":"",
+    "Future Projections of # of CCTV Cameras per 1,000 People (or Total Inc. Private Cameras)":null
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -38.5229584,-3.7340215 ]
+    },
+    "properties": {
+    "City":"Fortaleza",
+    "Country":"Brazil",
+    "# of CCTV Cameras":"2,543",
+    "# of People":"2,643,247",
+    "# of CCTV Cameras per 1,000 People":0.96,
+    "Future Projections (or Addition of Private Cameras)":"",
+    "Future Projections of # of CCTV Cameras per 1,000 People (or Total Inc. Private Cameras)":null
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -80.2340487,25.7279534 ]
+    },
+    "properties": {
+    "City":"Miami",
+    "Country":"United States",
+    "# of CCTV Cameras":"456",
+    "# of People":"491,724",
+    "# of CCTV Cameras per 1,000 People":0.93,
+    "Future Projections (or Addition of Private Cameras)":"2,500",
+    "Future Projections of # of CCTV Cameras per 1,000 People (or Total Inc. Private Cameras)":5.08
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 24.7280556,59.4338889 ]
+    },
+    "properties": {
+    "City":"Tallinn",
+    "Country":"Estonia ",
+    "# of CCTV Cameras":"400",
+    "# of People":"434,562",
+    "# of CCTV Cameras per 1,000 People":0.92,
+    "Future Projections (or Addition of Private Cameras)":"",
+    "Future Projections of # of CCTV Cameras per 1,000 People (or Total Inc. Private Cameras)":null
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -49.2732515,-25.4283563 ]
+    },
+    "properties": {
+    "City":"Curitiba",
+    "Country":"Brazil",
+    "# of CCTV Cameras":"1,550",
+    "# of People":"1,917,185",
+    "# of CCTV Cameras per 1,000 People":0.81,
+    "Future Projections (or Addition of Private Cameras)":"",
+    "Future Projections of # of CCTV Cameras per 1,000 People (or Total Inc. Private Cameras)":null
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -83.044933,42.32939 ]
+    },
+    "properties": {
+    "City":"Detroit",
+    "Country":"United States",
+    "# of CCTV Cameras":"500",
+    "# of People":"662,172",
+    "# of CCTV Cameras per 1,000 People":0.76,
+    "Future Projections (or Addition of Private Cameras)":"1,400",
+    "Future Projections of # of CCTV Cameras per 1,000 People (or Total Inc. Private Cameras)":2.11
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 34.8049877,32.0856007 ]
+    },
+    "properties": {
+    "City":"Tel Aviv",
+    "Country":"Israel",
+    "# of CCTV Cameras":"3,000",
+    "# of People":"4,096,962",
+    "# of CCTV Cameras per 1,000 People":0.73,
+    "Future Projections (or Addition of Private Cameras)":"",
+    "Future Projections of # of CCTV Cameras per 1,000 People (or Total Inc. Private Cameras)":null
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -58.4370894,-34.6075682 ]
+    },
+    "properties": {
+    "City":"Buenos Aires",
+    "Country":"Argentina",
+    "# of CCTV Cameras":"10,963",
+    "# of People":"15,057,273",
+    "# of CCTV Cameras per 1,000 People":0.73,
+    "Future Projections (or Addition of Private Cameras)":"45,963",
+    "Future Projections of # of CCTV Cameras per 1,000 People (or Total Inc. Private Cameras)":3.05
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -77.0365256,-12.0621065 ]
+    },
+    "properties": {
+    "City":"Lima",
+    "Country":"Peru",
+    "# of CCTV Cameras":"7,547",
+    "# of People":"10,554,712",
+    "# of CCTV Cameras per 1,000 People":0.72,
+    "Future Projections (or Addition of Private Cameras)":"12,347",
+    "Future Projections of # of CCTV Cameras per 1,000 People (or Total Inc. Private Cameras)":1.17
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 106.7619794,10.6497452 ]
+    },
+    "properties": {
+    "City":"Ho Chi Minh City",
+    "Country":"Vietnam",
+    "# of CCTV Cameras":"6,150",
+    "# of People":"8,993,082",
+    "# of CCTV Cameras per 1,000 People":0.68,
+    "Future Projections (or Addition of Private Cameras)":"54,150",
+    "Future Projections of # of CCTV Cameras per 1,000 People (or Total Inc. Private Cameras)":6.02
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 15.977048,45.813177 ]
+    },
+    "properties": {
+    "City":"Zagreb",
+    "Country":"Croatia",
+    "# of CCTV Cameras":"468",
+    "# of People":"685,233",
+    "# of CCTV Cameras per 1,000 People":0.68,
+    "Future Projections (or Addition of Private Cameras)":"",
+    "Future Projections of # of CCTV Cameras per 1,000 People (or Total Inc. Private Cameras)":null
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 74.3141775,31.5656079 ]
+    },
+    "properties": {
+    "City":"Lahore",
+    "Country":"Pakistan",
+    "# of CCTV Cameras":"8,000",
+    "# of People":"12,188,196",
+    "# of CCTV Cameras per 1,000 People":0.66,
+    "Future Projections (or Addition of Private Cameras)":"",
+    "Future Projections of # of CCTV Cameras per 1,000 People (or Total Inc. Private Cameras)":null
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 139.7594549,35.6828387 ]
+    },
+    "properties": {
+    "City":"Tokyo",
+    "Country":"Japan",
+    "# of CCTV Cameras":"24,500",
+    "# of People":"37,435,191",
+    "# of CCTV Cameras per 1,000 People":0.65,
+    "Future Projections (or Addition of Private Cameras)":"55,000",
+    "Future Projections of # of CCTV Cameras per 1,000 People (or Total Inc. Private Cameras)":1.47
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 96.1133896,17.0594342 ]
+    },
+    "properties": {
+    "City":"Yangon",
+    "Country":"Myanmar",
+    "# of CCTV Cameras":"2,995",
+    "# of People":"5,243,989",
+    "# of CCTV Cameras per 1,000 People":0.57,
+    "Future Projections (or Addition of Private Cameras)":"",
+    "Future Projections of # of CCTV Cameras per 1,000 People (or Total Inc. Private Cameras)":null
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 106.827183,-6.1753942 ]
+    },
+    "properties": {
+    "City":"Jakarta",
+    "Country":"Indonesia",
+    "# of CCTV Cameras":"6,000",
+    "# of People":"10,638,689",
+    "# of CCTV Cameras per 1,000 People":0.56,
+    "Future Projections (or Addition of Private Cameras)":"66,000",
+    "Future Projections of # of CCTV Cameras per 1,000 People (or Total Inc. Private Cameras)":6.2
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -95.3676974,29.7589382 ]
+    },
+    "properties": {
+    "City":"Houston",
+    "Country":"United States",
+    "# of CCTV Cameras":"1,300",
+    "# of People":"2,359,480",
+    "# of CCTV Cameras per 1,000 People":0.55,
+    "Future Projections (or Addition of Private Cameras)":"",
+    "Future Projections of # of CCTV Cameras per 1,000 People (or Total Inc. Private Cameras)":null
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 105.8544441,21.0294498 ]
+    },
+    "properties": {
+    "City":"Hanoi",
+    "Country":"Vietnam",
+    "# of CCTV Cameras":"4,400",
+    "# of People":"8,053,663",
+    "# of CCTV Cameras per 1,000 People":0.55,
+    "Future Projections (or Addition of Private Cameras)":"64,400",
+    "Future Projections of # of CCTV Cameras per 1,000 People (or Total Inc. Private Cameras)":8
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -7.6187768,33.5950627 ]
+    },
+    "properties": {
+    "City":"Casablanca",
+    "Country":"Morocco",
+    "# of CCTV Cameras":"1,960",
+    "# of People":"3,716,093",
+    "# of CCTV Cameras per 1,000 People":0.53,
+    "Future Projections (or Addition of Private Cameras)":"",
+    "Future Projections of # of CCTV Cameras per 1,000 People (or Total Inc. Private Cameras)":null
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 6.1298,49.6113 ]
+    },
+    "properties": {
+    "City":"Luxembourg",
+    "Country":"Luxembourg",
+    "# of CCTV Cameras":"139",
+    "# of People":"116,328",
+    "# of CCTV Cameras per 1,000 People":1.19,
+    "Future Projections (or Addition of Private Cameras)":"",
+    "Future Projections of # of CCTV Cameras per 1,000 People (or Total Inc. Private Cameras)":null
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 72.8353355,18.9387711 ]
+    },
+    "properties": {
+    "City":"Mumbai",
+    "Country":"India",
+    "# of CCTV Cameras":"9,800",
+    "# of People":"20,185,064",
+    "# of CCTV Cameras per 1,000 People":0.49,
+    "Future Projections (or Addition of Private Cameras)":"",
+    "Future Projections of # of CCTV Cameras per 1,000 People (or Total Inc. Private Cameras)":null
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -75.1635262,39.9527237 ]
+    },
+    "properties": {
+    "City":"Philadelphia",
+    "Country":"United States",
+    "# of CCTV Cameras":"730",
+    "# of People":"1,576,596",
+    "# of CCTV Cameras per 1,000 People":0.46,
+    "Future Projections (or Addition of Private Cameras)":"7,080",
+    "Future Projections of # of CCTV Cameras per 1,000 People (or Total Inc. Private Cameras)":4.49
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -74.0760439,4.59808 ]
+    },
+    "properties": {
+    "City":"Bogotá",
+    "Country":"Colombia",
+    "# of CCTV Cameras":"4,856",
+    "# of People":"10,779,376",
+    "# of CCTV Cameras per 1,000 People":0.45,
+    "Future Projections (or Addition of Private Cameras)":"",
+    "Future Projections of # of CCTV Cameras per 1,000 People (or Total Inc. Private Cameras)":null
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -70.6504451,-33.4377968 ]
+    },
+    "properties": {
+    "City":"Santiago",
+    "Country":"Chile",
+    "# of CCTV Cameras":"3,000",
+    "# of People":"6,723,516",
+    "# of CCTV Cameras per 1,000 People":0.45,
+    "Future Projections (or Addition of Private Cameras)":"",
+    "Future Projections of # of CCTV Cameras per 1,000 People (or Total Inc. Private Cameras)":null
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 72.5797068,23.0216238 ]
+    },
+    "properties": {
+    "City":"Ahmedabad",
+    "Country":"India",
+    "# of CCTV Cameras":"3,472",
+    "# of People":"7,868,633",
+    "# of CCTV Cameras per 1,000 People":0.44,
+    "Future Projections (or Addition of Private Cameras)":"6,281",
+    "Future Projections of # of CCTV Cameras per 1,000 People (or Total Inc. Private Cameras)":0.8
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -34.8781517,-8.0641931 ]
+    },
+    "properties": {
+    "City":"Recife",
+    "Country":"Brazil",
+    "# of CCTV Cameras":"700",
+    "# of People":"1,637,834",
+    "# of CCTV Cameras per 1,000 People":0.43,
+    "Future Projections (or Addition of Private Cameras)":"",
+    "Future Projections of # of CCTV Cameras per 1,000 People (or Total Inc. Private Cameras)":null
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -3.1883749,55.9533456 ]
+    },
+    "properties": {
+    "City":"Edinburgh",
+    "Country":"Scotland (UK)",
+    "# of CCTV Cameras":"226",
+    "# of People":"530,741",
+    "# of CCTV Cameras per 1,000 People":0.43,
+    "Future Projections (or Addition of Private Cameras)":"",
+    "Future Projections of # of CCTV Cameras per 1,000 People (or Total Inc. Private Cameras)":null
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -47.06083,-22.90556 ]
+    },
+    "properties": {
+    "City":"Campinas",
+    "Country":"Brazil",
+    "# of CCTV Cameras":"500",
+    "# of People":"1,194,094",
+    "# of CCTV Cameras per 1,000 People":0.42,
+    "Future Projections (or Addition of Private Cameras)":"",
+    "Future Projections of # of CCTV Cameras per 1,000 People (or Total Inc. Private Cameras)":null
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -75.573553,6.2443382 ]
+    },
+    "properties": {
+    "City":"Medellín",
+    "Country":"Colombia",
+    "# of CCTV Cameras":"1,495",
+    "# of People":"3,966,906",
+    "# of CCTV Cameras per 1,000 People":0.38,
+    "Future Projections (or Addition of Private Cameras)":"1,795",
+    "Future Projections of # of CCTV Cameras per 1,000 People (or Total Inc. Private Cameras)":0.45
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 18.417396,-33.928992 ]
+    },
+    "properties": {
+    "City":"Cape Town",
+    "Country":"South Africa",
+    "# of CCTV Cameras":"1,578",
+    "# of People":"4,524,111",
+    "# of CCTV Cameras per 1,000 People":0.35,
+    "Future Projections (or Addition of Private Cameras)":"1,861",
+    "Future Projections of # of CCTV Cameras per 1,000 People (or Total Inc. Private Cameras)":0.41
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -43.2093727,-22.9110137 ]
+    },
+    "properties": {
+    "City":"Rio de Janeiro",
+    "Country":"Brazil",
+    "# of CCTV Cameras":"4,500",
+    "# of People":"13,374,275",
+    "# of CCTV Cameras per 1,000 People":0.34,
+    "Future Projections (or Addition of Private Cameras)":"734,500",
+    "Future Projections of # of CCTV Cameras per 1,000 People (or Total Inc. Private Cameras)":54.92
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -21.7692636,64.2445036 ]
+    },
+    "properties": {
+    "City":"Reykjavik",
+    "Country":"Iceland",
+    "# of CCTV Cameras":"40",
+    "# of People":"128,793",
+    "# of CCTV Cameras per 1,000 People":0.31,
+    "Future Projections (or Addition of Private Cameras)":"80",
+    "Future Projections of # of CCTV Cameras per 1,000 People (or Total Inc. Private Cameras)":0.62
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -73.6103642,45.4972159 ]
+    },
+    "properties": {
+    "City":"Montréal",
+    "Country":"Canada",
+    "# of CCTV Cameras":"1,220",
+    "# of People":"4,195,523",
+    "# of CCTV Cameras per 1,000 People":0.29,
+    "Future Projections (or Addition of Private Cameras)":"",
+    "Future Projections of # of CCTV Cameras per 1,000 People (or Total Inc. Private Cameras)":null
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 44.8014495,41.6934591 ]
+    },
+    "properties": {
+    "City":"Tbilisi",
+    "Country":"Georgia",
+    "# of CCTV Cameras":"300",
+    "# of People":"1,158,700",
+    "# of CCTV Cameras per 1,000 People":0.26,
+    "Future Projections (or Addition of Private Cameras)":"",
+    "Future Projections of # of CCTV Cameras per 1,000 People (or Total Inc. Private Cameras)":null
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -96.7968559,32.7762719 ]
+    },
+    "properties": {
+    "City":"Dallas",
+    "Country":"United States",
+    "# of CCTV Cameras":"347",
+    "# of People":"1,379,735",
+    "# of CCTV Cameras per 1,000 People":0.25,
+    "Future Projections (or Addition of Private Cameras)":"947",
+    "Future Projections of # of CCTV Cameras per 1,000 People (or Total Inc. Private Cameras)":0.69
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 129.0752365,35.1799528 ]
+    },
+    "properties": {
+    "City":"Busan",
+    "Country":"South Korea",
+    "# of CCTV Cameras":"780",
+    "# of People":"3,465,633",
+    "# of CCTV Cameras per 1,000 People":0.23,
+    "Future Projections (or Addition of Private Cameras)":"",
+    "Future Projections of # of CCTV Cameras per 1,000 People (or Total Inc. Private Cameras)":null
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 28.049722,-26.205 ]
+    },
+    "properties": {
+    "City":"Johannesburg",
+    "Country":"South Africa",
+    "# of CCTV Cameras":"1,200",
+    "# of People":"5,635,127",
+    "# of CCTV Cameras per 1,000 People":0.21,
+    "Future Projections (or Addition of Private Cameras)":"16,200",
+    "Future Projections of # of CCTV Cameras per 1,000 People (or Total Inc. Private Cameras)":2.87
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 130.875,33.883 ]
+    },
+    "properties": {
+    "City":"Kitakyushu",
+    "Country":"Japan",
+    "# of CCTV Cameras":"194",
+    "# of People":"945,595",
+    "# of CCTV Cameras per 1,000 People":0.21,
+    "Future Projections (or Addition of Private Cameras)":"",
+    "Future Projections of # of CCTV Cameras per 1,000 People (or Total Inc. Private Cameras)":null
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -5.9302761,54.5964411 ]
+    },
+    "properties": {
+    "City":"Belfast ",
+    "Country":"Northern Ireland",
+    "# of CCTV Cameras":"120",
+    "# of People":"626,760",
+    "# of CCTV Cameras per 1,000 People":0.19,
+    "Future Projections (or Addition of Private Cameras)":"",
+    "Future Projections of # of CCTV Cameras per 1,000 People (or Total Inc. Private Cameras)":null
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 4.8979755,52.3745403 ]
+    },
+    "properties": {
+    "City":"Amsterdam",
+    "Country":"The Netherlands",
+    "# of CCTV Cameras":"203",
+    "# of People":"1,140,339",
+    "# of CCTV Cameras per 1,000 People":0.18,
+    "Future Projections (or Addition of Private Cameras)":"",
+    "Future Projections of # of CCTV Cameras per 1,000 People (or Total Inc. Private Cameras)":null
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 51.4013785,35.7006177 ]
+    },
+    "properties": {
+    "City":"Tehran",
+    "Country":"Iran",
+    "# of CCTV Cameras":"1,500",
+    "# of People":"9,013,663",
+    "# of CCTV Cameras per 1,000 People":0.17,
+    "Future Projections (or Addition of Private Cameras)":"",
+    "Future Projections of # of CCTV Cameras per 1,000 People (or Total Inc. Private Cameras)":null
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -43.9450948,-19.9227318 ]
+    },
+    "properties": {
+    "City":"Belo Horizonte ",
+    "Country":"Brazil",
+    "# of CCTV Cameras":"403",
+    "# of People":"2,501,576",
+    "# of CCTV Cameras per 1,000 People":0.16,
+    "Future Projections (or Addition of Private Cameras)":"145,403",
+    "Future Projections of # of CCTV Cameras per 1,000 People (or Total Inc. Private Cameras)":58.12
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -121.8905833,37.3361905 ]
+    },
+    "properties": {
+    "City":"San Jose",
+    "Country":"Costa Rica",
+    "# of CCTV Cameras":"215",
+    "# of People":"1,404,242",
+    "# of CCTV Cameras per 1,000 People":0.15,
+    "Future Projections (or Addition of Private Cameras)":"39,500",
+    "Future Projections of # of CCTV Cameras per 1,000 People (or Total Inc. Private Cameras)":28.13
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 67.1847767,25.1446897 ]
+    },
+    "properties": {
+    "City":"Karachi ",
+    "Country":"Pakistan",
+    "# of CCTV Cameras":"2,200",
+    "# of People":"15,741,406",
+    "# of CCTV Cameras per 1,000 People":0.14,
+    "Future Projections (or Addition of Private Cameras)":"12,200",
+    "Future Projections of # of CCTV Cameras per 1,000 People (or Total Inc. Private Cameras)":0.78
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 101.6943028,3.1516636 ]
+    },
+    "properties": {
+    "City":"Kuala Lumpur",
+    "Country":"Malaysia",
+    "# of CCTV Cameras":"1,000",
+    "# of People":"7,780,301",
+    "# of CCTV Cameras per 1,000 People":0.13,
+    "Future Projections (or Addition of Private Cameras)":"41,000",
+    "Future Projections of # of CCTV Cameras per 1,000 People (or Total Inc. Private Cameras)":5.27
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -46.6333824,-23.5506507 ]
+    },
+    "properties": {
+    "City":"São Paulo",
+    "Country":"Brazil",
+    "# of CCTV Cameras":"2,623",
+    "# of People":"21,846,507",
+    "# of CCTV Cameras per 1,000 People":0.12,
+    "Future Projections (or Addition of Private Cameras)":"130,200",
+    "Future Projections of # of CCTV Cameras per 1,000 People (or Total Inc. Private Cameras)":5.96
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 77.5912997,12.9791198 ]
+    },
+    "properties": {
+    "City":"Bangalore",
+    "Country":"India",
+    "# of CCTV Cameras":"1,301",
+    "# of People":"11,882,666",
+    "# of CCTV Cameras per 1,000 People":0.11,
+    "Future Projections (or Addition of Private Cameras)":"6,301",
+    "Future Projections of # of CCTV Cameras per 1,000 People (or Total Inc. Private Cameras)":0.53
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -53.2,-10.3333333 ]
+    },
+    "properties": {
+    "City":"Brasilia",
+    "Country":"Brazil",
+    "# of CCTV Cameras":"453",
+    "# of People":"4,558,991",
+    "# of CCTV Cameras per 1,000 People":0.1,
+    "Future Projections (or Addition of Private Cameras)":"250,515",
+    "Future Projections of # of CCTV Cameras per 1,000 People (or Total Inc. Private Cameras)":54.95
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 72.8081281,21.1864607 ]
+    },
+    "properties": {
+    "City":"Surat",
+    "Country":"India",
+    "# of CCTV Cameras":"614",
+    "# of People":"6,873,756",
+    "# of CCTV Cameras per 1,000 People":0.09,
+    "Future Projections (or Addition of Private Cameras)":"6,975",
+    "Future Projections of # of CCTV Cameras per 1,000 People (or Total Inc. Private Cameras)":1.01
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 90.3788136,23.7593572 ]
+    },
+    "properties": {
+    "City":"Dhaka",
+    "Country":"Bangladesh",
+    "# of CCTV Cameras":"1,000",
+    "# of People":"20,283,552",
+    "# of CCTV Cameras per 1,000 People":0.05,
+    "Future Projections (or Addition of Private Cameras)":"2,000",
+    "Future Projections of # of CCTV Cameras per 1,000 People (or Total Inc. Private Cameras)":0.1
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 18.0710935,59.3251172 ]
+    },
+    "properties": {
+    "City":"Stockholm",
+    "Country":"Sweden ",
+    "# of CCTV Cameras":"70",
+    "# of People":"1,608,037",
+    "# of CCTV Cameras per 1,000 People":0.04,
+    "Future Projections (or Addition of Private Cameras)":"33,170",
+    "Future Projections of # of CCTV Cameras per 1,000 People (or Total Inc. Private Cameras)":20.63
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 31.243666,30.048819 ]
+    },
+    "properties": {
+    "City":"Cairo",
+    "Country":"Egypt",
+    "# of CCTV Cameras":"500",
+    "# of People":"20,484,965",
+    "# of CCTV Cameras per 1,000 People":0.02,
+    "Future Projections (or Addition of Private Cameras)":"",
+    "Future Projections of # of CCTV Cameras per 1,000 People (or Total Inc. Private Cameras)":null
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 120.9799696,14.5906216 ]
+    },
+    "properties": {
+    "City":"Manila",
+    "Country":"Philippines",
+    "# of CCTV Cameras":"300",
+    "# of People":"13,698,889",
+    "# of CCTV Cameras per 1,000 People":0.02,
+    "Future Projections (or Addition of Private Cameras)":"12,300",
+    "Future Projections of # of CCTV Cameras per 1,000 People (or Total Inc. Private Cameras)":0.9
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 46.7150648,24.6319692 ]
+    },
+    "properties": {
+    "City":"Riyadh",
+    "Country":"Saudi Arabia",
+    "# of CCTV Cameras":"150",
+    "# of People":"7,070,665",
+    "# of CCTV Cameras per 1,000 People":0.02,
+    "Future Projections (or Addition of Private Cameras)":"",
+    "Future Projections of # of CCTV Cameras per 1,000 People (or Total Inc. Private Cameras)":null
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 144.9631608,-37.8142176 ]
+    },
+    "properties": {
+    "City":"Melbourne",
+    "Country":"Australia",
+    "# of CCTV Cameras":"93",
+    "# of People":"4,870,388",
+    "# of CCTV Cameras per 1,000 People":0.02,
+    "Future Projections (or Addition of Private Cameras)":"",
+    "Future Projections of # of CCTV Cameras per 1,000 People (or Total Inc. Private Cameras)":null
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 36.8172449,-1.2832533 ]
+    },
+    "properties": {
+    "City":"Nairobi",
+    "Country":"Kenya",
+    "# of CCTV Cameras":"42",
+    "# of People":"4,556,381",
+    "# of CCTV Cameras per 1,000 People":0.01,
+    "Future Projections (or Addition of Private Cameras)":"1,800",
+    "Future Projections of # of CCTV Cameras per 1,000 People (or Total Inc. Private Cameras)":0.4
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 12.5700724,55.6867243 ]
+    },
+    "properties": {
+    "City":"Copenhagen",
+    "Country":"Denmark",
+    "# of CCTV Cameras":"",
+    "# of People":"1,333,888",
+    "# of CCTV Cameras per 1,000 People":0,
+    "Future Projections (or Addition of Private Cameras)":"400,000",
+    "Future Projections of # of CCTV Cameras per 1,000 People (or Total Inc. Private Cameras)":299.88
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -118.2427666,34.0536909 ]
+    },
+    "properties": {
+    "City":"Los Angeles",
+    "Country":"United States",
+    "# of CCTV Cameras":"",
+    "# of People":"4,057,841",
+    "# of CCTV Cameras per 1,000 People":0,
+    "Future Projections (or Addition of Private Cameras)":"",
+    "Future Projections of # of CCTV Cameras per 1,000 People (or Total Inc. Private Cameras)":null
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 10.7389701,59.9133301 ]
+    },
+    "properties": {
+    "City":"Oslo",
+    "Country":"Norway",
+    "# of CCTV Cameras":"",
+    "# of People":"1,026,758",
+    "# of CCTV Cameras per 1,000 People":null,
+    "Future Projections (or Addition of Private Cameras)":"20,000",
+    "Future Projections of # of CCTV Cameras per 1,000 People (or Total Inc. Private Cameras)":19.48
+    }
+  }
+]
+}
